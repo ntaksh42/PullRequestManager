@@ -6,6 +6,7 @@
         xmlns:local="clr-namespace:AzureDevopsTool.WPF"
         mc:Ignorable="d"
         Title="Pull Request Manager" Height="600" Width="1200"
+        Icon="pack://application:,,,/Resource/pullrequestManager.ico"
         KeyDown="MainWindow_KeyDown">
     <Grid>
         <Grid.RowDefinitions>

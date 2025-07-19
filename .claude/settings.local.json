@@ -16,7 +16,9 @@
       "Bash(cp:*)",
       "Bash(find:*)",
       "Bash(sed:*)",
-      "Bash(del AzureDevopsTool.sln)"
+      "Bash(del AzureDevopsTool.sln)",
+      "Bash(copy:*)",
+      "Bash(dotnet run:*)"
     ],
     "deny": []
   }
