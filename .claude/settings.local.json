@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(ls:*)",
+      "Bash(dotnet new:*)",
+      "Bash(dotnet sln add:*)",
+      "Bash(dotnet add:*)",
+      "Bash(dotnet build)",
+      "Bash(taskkill:*)",
+      "Bash(dotnet build:*)",
+      "Bash(rm:*)",
+      "Bash(dotnet clean:*)",
+      "Bash(mv:*)",
+      "Bash(mkdir:*)",
+      "Bash(cp:*)",
+      "Bash(find:*)",
+      "Bash(sed:*)",
+      "Bash(del AzureDevopsTool.sln)"
+    ],
+    "deny": []
+  }
+}
